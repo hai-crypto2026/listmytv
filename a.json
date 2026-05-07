@@ -1,13 +1,3 @@
-{
-  "EXZ01999": {
-    "device_name": "Tivi của tôi",
-    "expire": "TRUE",
-    "is_online": true
-  },
-  "ABC12345": {
-    "device_name": "Tivi phòng khách",
-    "expire": "TRUE",
-    "is_online": true
-  }
-}
+{"device_name": "Tivi của tôi", "name": "Super Admin", "expire": "TRUE", "is_online": true}
+
 
