@@ -224,6 +224,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=255
 https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/dongthap2.jpg" group-title="Địa Phương",Đồng Tháp 2
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+# EXTINF:-1 tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="Địa Phương",Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 
 # --- NHÓM THỂ THAO ---
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/onfootball.jpg" group-title="Thể Thao",ON Football HD
