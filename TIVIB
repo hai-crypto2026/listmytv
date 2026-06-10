@@ -38,7 +38,7 @@ https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
