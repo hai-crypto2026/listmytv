@@ -1,7 +1,7 @@
 {
-  "device_name": "Tivi siêu VIP của LO",
+  "device_name": "Tivi siêu VIP",
   "name": "Super Admin",
-  "expire": "2099-12-31",
+  "expire": "TRUE",
   "is_online": true
 }
 
