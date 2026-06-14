@@ -1,1 +1,14 @@
-
+{
+    "expire": "TRUE",
+    "expires": "2030-12-31",
+    "status": 1,
+    "active": true,
+    "is_active": true,
+    "activation_date": "2030-12-31",
+    "device_status": "active",
+    "popup_active": true,
+    "marquee_active": true,
+    "is_online": true,
+    "vip": true,
+    "password": ""
+}
