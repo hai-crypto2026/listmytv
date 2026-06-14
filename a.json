@@ -1,13 +1,7 @@
 {
-  "A9F8331D": {
-    "device_name": "Tivi của khách hàng VIP",
-    "name": "Super Admin",
-    "expire": "2099-12-31",
-    "is_online": true
-    },
-  "8T747216": {
-    "device_name": "Tivi của khách hàng số 2",
-    "expire": "2099-10-15",
-    "is_online": true
-  }
+  "device_name": "Tivi siêu VIP của LO",
+  "name": "Super Admin",
+  "expire": "2099-12-31",
+  "is_online": true
 }
+
