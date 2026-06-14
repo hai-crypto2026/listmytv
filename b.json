@@ -1,9 +1,7 @@
 {
-  "devices": {
-    "A9F8331D": {
-      "Active": true,
-      "expire": "12-12-2050",
-      "status": 1
-    }
+  "A9F8331D": {
+    "Active": true,
+    "status": 1,
+    "expire": "2050-12-31"
   }
 }
