@@ -1,17 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-----------------------Truyền Hình-------------------------------#
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/v2abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
@@ -21,7 +19,9 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
@@ -33,6 +33,8 @@ https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
@@ -49,9 +51,8 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
@@ -61,23 +62,19 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
-https://freem3u.xyz/api/live/play.m3u8?vid=91
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
-https://live.canthotv.vn/live/tv/playlist.m3u8
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
-https://freem3u.xyz/api/live/play.m3u8?vid=61
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
-https://freem3u.xyz/api/live/play.m3u8?vid=84
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jeunb3Y.png",An Viên TV
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
@@ -90,14 +87,10 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 2
-https://freem3u.xyz/api/live/play.m3u8?vid=45
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png",Lâm Đồng 3
-https://freem3u.xyz/api/live/play.m3u8?vid=50
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 2
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png",Tây Ninh
-https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/WEMfHas.png",Vũng Tàu
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng 1
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng 2
@@ -107,7 +100,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/z7l0ZZg.png",Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/HQ7jCa6.png",Thừa Thiên Huế
-https://live.huetv.com.vn/TRT-Online/playlist.m3u8
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 1
@@ -204,7 +197,7 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=175
 #EXTINF:-1 tvg-id="onmovies" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
@@ -236,8 +229,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Truyền Hình" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -259,27 +250,48 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hollywoodclassic.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxhits.png", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-id="woman" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 #EXTINF:-1 tvg-id="animalhd" group-title="Truyền Hình" tvg-logo="https://identsandpresentation.com/animalplanet2018/stingone-d.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Truyền Hình" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="animaxhd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
-http://filex.tv:8080//live/drzain/002808/290854.ts
-#EXTINF:-1 tvg-id="boomerang" group-title="Truyền Hình" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Truyền Hình" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="babytvhd" group-title="Truyền Hình" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
 #EXTINF:-1 tvg-id="dreamworks" group-title="Truyền Hình" tvg-logo="https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -304,59 +316,6 @@ https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/ninochannel0102/playl
 https://hnlive.dramahay.xyz/hls_nonkey/lvtt/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
 https://hnlive.dramahay.xyz/live/atv/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg", Đèn Âm Hồn: Người Con Gái Nam Xương
-https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg", Làm Giàu Với Ma (Betting With Ghost)
-https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg", Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản vietsub)
-https://dl.dropboxusercontent.com/scl/fi/yvvlntkqerm1xvlhbfadc/Xem-Phim-Doraemon-Movie-44-Nobita-V-Cu-c-Phi-u-L-u-V-o-Th-Gi-i-Trong-Tranh-Doraemon-the-Movie-Nobitas-Art-World-Tales-Vietsub-RoPhim.mp4?rlkey=z2dujfvestltu7lpcaz2x1fnw&e=1&st=1drx6hkz&dl=0
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg", Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản lồng tiếng)
-https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://assets.glxplay.io/images/w700/title/ngay-xua-co-mot-chuyen-tinh_web_backdrop_8b7a5b8cbb5fe245d3a6f7aea524c796.jpg", Ngày Xưa Có Một Chuyện Tình
-https://s6.kkphimplayer6.com/20250901/w8LN0LND/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/08/28/bo-tu-bao-thu-fpt-play-1756374565016_Landscape.jpg", Bộ Tứ Báo Thủ
-https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/q05fNtW.png", Mưa Trên Cánh Bướm
-https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg", Thám Tử Kiên: Kỳ Án Không Đầu
-https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
-https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/26/tham-tu-lung-danh-conan-du-anh-cua-doc-nhan-fpt-play-1766741539032_Landscape.jpg", Conan Movie 28 - Dư Ảnh Của Độc Nhãn
-https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuadocnhan-detectiveconanoneeyedflashback-2025-dolby-mav-bb8d776e6f35fe41/H264/stream.mpd?st=8PSyksBMiL_tvRpq4B3-eg&expires=1767859023
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg", Mang Mẹ Đi Bỏ
-https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/26/trai-tim-que-quat-fpt-play-1766744170691_Landscape.jpg", Trái Tim Què Quặt
-https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg", Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn
-https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/27/quy-nhap-trang-fpt-play-1769508575571_Landscape.jpg", Quỷ Nhập Tràng
-https://s6.kkphimplayer6.com/20260129/HDz8Fu0F/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg", Tử Chiến Trên Không
-https://rumble.com/hls-vod/72x1ns/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
-https://rumble.com/hls-vod/72av32/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
-https://rumble.com/hls-vod/72nhy6/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 3
-https://rumble.com/hls-vod/73bg84/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
