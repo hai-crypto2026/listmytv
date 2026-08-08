@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.8",
-  "changelog": "- Sửa lỗi giọng nói\n- Đẩy full kênh ra màn hình chính\n- Thân chào Mấy bạn!",
+  "versionCode": 12,
+  "versionName": "1.1.9",
+  "changelog": "- Sửa lỗi giọng nói\n- fix kênh\n- nếu ko dowloader thì <https://vnshort.com/2Ljc>!",
   "downloadUrl": "https://raw.githubusercontent.com/hai-crypto2026/listmytv/refs/heads/main/app-debug.apk"
 }
