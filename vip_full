@@ -166,74 +166,92 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 
 #-----------------------Kênh SCTV-------------------------------#
+# EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV1
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv1
 
+# EXTINF:-1 tvg-id="sctv2" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV2
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8
 
+# EXTINF:-1 tvg-id="sctv3" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV3
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv3
 
+# EXTINF:-1 tvg-id="sctv4" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV4
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv4
 
-# EXTVLCOPT: http-referrer=https://vmttv.dpdns.org/
+# EXTINF:-1 tvg-id="sctv5" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV5
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv5
 
+# EXTINF:-1 tvg-id="sctv6" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV6
 # EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
+# EXTINF:-1 tvg-id="sctv7" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV7
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv7
 
+# EXTINF:-1 tvg-id="sctv8" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV8
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv8
 
-# EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+# EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV9
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv9
 
-# EXTVLCOPT: http-referrer=https://vmttv.dpdns.org/
+# EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV10
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv10
 
+# EXTINF:-1 tvg-id="sctv11" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV11
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv11
 
+# EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV12
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv12
 
+# EXTINF:-1 tvg-id="sctv13" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV13
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv13
 
+# EXTINF:-1 tvg-id="sctv14" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV14
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv14
 
+# EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV15
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv15
 
-# EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png", SCTV16 HD
+# EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png",SCTV16 HD
 https://vmttv.dpdns.org/VTVGo/?sctv16
 
+# EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV17
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv17
 
+# EXTINF:-1 tvg-id="sctv18" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV18
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv18
 
+# EXTINF:-1 tvg-id="sctv19" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV19
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv19
 
+# EXTINF:-1 tvg-id="sctv20" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV20
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv20
 
+# EXTINF:-1 tvg-id="sctv21" group-title="SCTV" tvg-logo="https://i.imgur.com/KqHssAU.png",SCTV21
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv21
 
 # EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",SCTV22 HD
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv22
-
-
-
 
 #-----------------------Kênh VTVCab-------------------------------#
 #EXTINF:-1 tvg-id="OnHomeShopping" group-title="VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
