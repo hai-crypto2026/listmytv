@@ -254,9 +254,6 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 https://vmttv.dpdns.org/VTVGo/?sctv22
 
 #-----------------------Kênh VTVCab-------------------------------#
-# EXTINF:-1 tvg-id="OnHomeShopping" group-title="VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
-https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-
 # EXTINF:-1 tvg-id="viegiairi" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Vie Giải Trí
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=180
