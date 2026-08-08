@@ -254,67 +254,65 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 https://vmttv.dpdns.org/VTVGo/?sctv22
 
 #-----------------------Kênh VTVCab-------------------------------#
-#EXTINF:-1 tvg-id="OnHomeShopping" group-title="VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
+# EXTINF:-1 tvg-id="OnHomeShopping" group-title="VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png", ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_640_360.png", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png", On Movies - You TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_640_360.png", ON E- Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_640_360.png", On O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
-#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
-#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
-#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
-#EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_640_360.png", ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_640_360.png", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
-#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/LbErgCyAO8oeCvdoXtn2YD7Dmdq-5Ck_kd_j3KRiQOw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png", ON Sports HD
+
+# EXTINF:-1 tvg-id="viegiairi" group-title="VTVcab" tvg-logo="https://i.postimg.cc/9QkSF5vQ/vie.png", Vie Giải Trí
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+# EXTINF:-1 tvg-id="viedramas" group-title="VTVcab" tvg-logo="https://i.postimg.cc/9QkSF5vQ/vie.png", Vie Dramas
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
+# EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Cine
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+# EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON E Channel
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+# EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON O2TV
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+# EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON BiBi
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+# EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Music
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+# EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Style
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+# EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Kids
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+# EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Life
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+# EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/LbErgCyAO8oeCvdoXtn2YD7Dmdq-5Ck_kd_j3KRiQOw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png", ON Sports HD
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/DQooNd3FvN5ZOr4IFRPGTCdrGYYo54iHoJtKZw7IGJ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png", ON Sports+
+
+# EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/DQooNd3FvN5ZOr4IFRPGTCdrGYYo54iHoJtKZw7IGJ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png", ON Sports+
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/wADmCTC1blGfZsAXsLdID5Ga0lbin-QoM9RFyvh8iTE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png",  ON Football HD
+
+# EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/wADmCTC1blGfZsAXsLdID5Ga0lbin-QoM9RFyvh8iTE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png", ON Football HD
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/eCd__H3xHmm7u3gZ5gVuuUcUurti3lVCuf6K0jhFdL0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png", ON Sports News
+
+# EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/eCd__H3xHmm7u3gZ5gVuuUcUurti3lVCuf6K0jhFdL0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png", ON Sports News
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+
+# KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+# EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/zrSJXtH.png", ON Golf
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
+
 
 #-----------------------Kênh TV360-------------------------------#
 
