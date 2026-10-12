@@ -65,18 +65,16 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 
 #-----------------------Kênh Vĩnh Long-------------------------------#
-#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong1hd.jpg" group-title="Vĩnh Long",Vĩnh Long 1
 https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong2hd.jpg" group-title="Vĩnh Long",Vĩnh Long 2
 https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://i.imgur.com/44c1Yoz.png",Vĩnh Long 3
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong3hd.jpg" group-title="Vĩnh Long",Vĩnh Long 3
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong4hd.png" group-title="Vĩnh Long",Vĩnh Long 4
 https://dethich.pw/thvl4/index.m3u8
-#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
-https://dethich.pw/thvl5/index.m3u8
-#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
-https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong5hd.jpg" group-title="Vĩnh Long",Vĩnh Long 5
+
 
 #-----------------------KÊNH ĐỊA PHƯƠNG-------------------------------#
 
