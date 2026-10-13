@@ -34,19 +34,19 @@ https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 #-----------------------HTV-------------------------------#
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="HTV",HTV1
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="HTV",HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="HTV",HTV3
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="HTV",HTV4
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png", HTV5 - B Channel
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv7.png" group-title="HTV",HTV7
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="HTV",HTV9
-https://live.fptplay53.net/live/media/htv9/live247-hls-avc/index.m3u8
+https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="HTV",HTVC Ca Nhạc
@@ -74,7 +74,7 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong4hd.png" group-title="Vĩnh Long",Vĩnh Long 4
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong5hd.jpg" group-title="Vĩnh Long",Vĩnh Long 5
-
+https://dethich.pw/thvl5/index.m3u8
 
 #-----------------------KÊNH ĐỊA PHƯƠNG-------------------------------#
 
