@@ -1,4 +1,4 @@
-# FIXED by SCTV Checker - 2026-10-17 16:19:26 - 25 kenh da thay
+# FIXED by SCTV Checker - 2026-11-04 17:11:34 - 12 kenh da thay
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" m3uautoload=1
 
 #-----------------------KÊNH VTV-------------------------------#
@@ -43,11 +43,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png", HTV5 - B Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv7.png" group-title="HTV",HTV7
-https://dethich.pw/htv7/index.m3u8
+https://vietmitv.id.vn/c.php?k=2a99d18
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="HTV",HTV9
-https://dethich.pw/htv9/index.m3u8
+https://vietmitv.id.vn/c.php?k=bfda8fd
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="HTV",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+https://vietmitv.id.vn/c.php?k=32d75b2
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="HTV",HTVC Ca Nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" group-title="HTV",HTVC Du Lịch và Cuộc Sống
@@ -64,11 +64,11 @@ https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #-----------------------Kênh Vĩnh Long-------------------------------#
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong1hd.jpg" group-title="Vĩnh Long",Vĩnh Long 1
-https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vietmitv.id.vn/c.php?k=ddf8023
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong2hd.jpg" group-title="Vĩnh Long",Vĩnh Long 2
-https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vietmitv.id.vn/c.php?k=05d10eb
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong3hd.jpg" group-title="Vĩnh Long",Vĩnh Long 3
-https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vietmitv.id.vn/c.php?k=a7b34c2
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong4hd.png" group-title="Vĩnh Long",Vĩnh Long 4
 https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vinhlong5hd.jpg" group-title="Vĩnh Long",Vĩnh Long 5
@@ -103,7 +103,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 3
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png",Tây Ninh
-https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+https://vietmitv.id.vn/c.php?k=bc10e1b
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng 1
 https://freem3u.xyz/api/live/play.m3u8?vid=49
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng 2
@@ -113,7 +113,7 @@ https://live-hq.evgcdn.net/live/285a27750861b964c27af22091662a74f2f/chunklist.m3
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/z7l0ZZg.png",Gia Lai
 https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/HQ7jCa6.png",Thừa Thiên Huế
-https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+https://vietmitv.id.vn/c.php?k=4f54339
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
 https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 1
@@ -161,12 +161,12 @@ https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/UwTCbZ5.png",Thanh Hóa
 https://liveh12.vtvprime.vn/hls/THANHHOATV/index.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/qPZeGPa.png",Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+https://vietmitv.id.vn/c.php?k=7ad021d
 
 #-----------------------Kênh SCTV-------------------------------#
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/sctv1hd.png" group-title="SCTV",SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vietanhtv.id.vn/sctv/sctv1-hd-7f2aafec/index.m3u8
+https://vietmitv.id.vn/c.php?k=82e5f0b
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/sctv2hd.png" group-title="SCTV",SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
@@ -184,7 +184,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/sctv8hd.png" group-title="SCTV",SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8
+https://vietmitv.id.vn/c.php?k=e1d0f56
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/sctv9hd.png" group-title="SCTV",SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
@@ -391,7 +391,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc tế" tvg-logo="https://img-ali1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_640_360.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+https://vietmitv.id.vn/c.php?k=97b8b63a34618b8a
 
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_640_360.png" group-title="Quốc tế",KIX TV
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
@@ -566,6 +566,7 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+
 
 
 
